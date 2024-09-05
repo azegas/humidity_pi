@@ -2,6 +2,11 @@ import time
 import board
 import adafruit_dht
 
+
+# + to pin 2 (5v)
+# - to pin 6 (gnd)
+# data to pin 7
+
 # Define the sensor type (DHT22) and the pin it's connected to
 DHT_PIN = board.D4  # This is GPIO4, which corresponds to physical pin 7 on Raspberry Pi 3B
 

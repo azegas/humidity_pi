@@ -5,7 +5,7 @@ arvypi@raspberrypi:~ $ cat /proc/cpuinfo | grep Model
 Model           : Raspberry Pi 3 Model B Rev 1.2
 ```
 
-Pin info - https://www.pi4j.com/1.2/pins/model-3b-rev1.html
+Pin info - https://i.pinimg.com/736x/bf/e5/02/bfe502b80a3248ed48fb125182235c32.jpg
 
 -----------------
 
@@ -30,3 +30,12 @@ Temperature: 25.5°C, Humidity: 66.9%
 Temperature: 25.5°C, Humidity: 67.6%
 Temperature: 25.5°C, Humidity: 67.6%
 ```
+
+## motion sensor
+
+I have such motion sensor - https://www.anodas.lt/hc-sr501-pir-judesio-daviklis?search=PIR
+
+its pins - https://images.theengineeringprojects.com/image/main/2019/01/Introduction-to-HC-SR501.jpg
+
+- TODO try to control delay
+- TODO try to control sensitivity
